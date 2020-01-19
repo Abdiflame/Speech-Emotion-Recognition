@@ -3,7 +3,7 @@ Speech Emotion Recognition models implementation with TensorFlow and Keras
 
 ## Speech Emotion Recognition High-Competitive Models (2019-2020)
 
-On this repository I share my studies and a simple implementation of speech emotion recognition models that reached a very high-competitive accuracy with the state-of-the-art papers available nowadays.
+On this repository I share my studies and a simple implementation of speech emotion recognition models that reached a very high-competitive accuracy comparing with the state-of-the-art papers available nowadays.
 
 ----------
 
