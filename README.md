@@ -20,4 +20,4 @@ https://sail.usc.edu/iemocap/ (license agreement is required)
 ----------
 
 ### [Audio Features]
-On both models, I used MFCC (n = 40) as audio input feature.
+On both models, MFCC (n = 40) was used as audio input feature.
