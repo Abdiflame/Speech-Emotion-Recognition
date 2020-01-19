@@ -1,0 +1,7 @@
+You can download the datasets through the following links:
+
+RAVDESS Dataset: (Used on the audio only model)
+https://zenodo.org/record/1188976#.XiQ7NcgzaUk
+
+IEMOCAP Dataset: (Used on the multimodal model)
+https://sail.usc.edu/iemocap/ (license agreement is required)
